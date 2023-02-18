@@ -1,0 +1,47 @@
+body{
+    background-image:url("monster.jpg");
+    
+}
+
+  #title{
+    text-align:center;
+    color:white;
+    font-family:roboto;
+  
+  }
+  
+  #style{
+      background-color:#128C7E;
+      border: 1px solid;
+      
+  }
+
+  .john{
+   color:white;
+   text-align:right;
+   padding:15px;
+   font-family: Helvetica;
+  }
+
+  .john1{
+    background-color: #25D366;
+    height:60px;
+    border-radius:15px;
+    border-bottom-right-radius: 0px;
+
+  }
+
+  .sam{
+    color:white;
+    text-align:left;
+    padding:15px;
+    font-family: Helvetica;
+  }
+
+  .sam1{
+    background-color: #075E54;
+    height:60px;
+    border-radius:15px;
+    border-bottom-left-radius: 0px;
+
+  }
